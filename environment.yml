@@ -7,3 +7,4 @@ dependencies:
   - ipywidgets
   - seaborn
   - ipympl
+  - PIL
